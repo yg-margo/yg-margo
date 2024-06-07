@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm second year CS student at ITMO University. 
+I'm third year CS student at ITMO University. 
